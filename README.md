@@ -1,8 +1,3 @@
-
-Built by https://www.blackbox.ai
-
----
-
 # LukaMon - Transforma Tu Cuerpo Hoy
 
 LukaMon is a personal training service designed to help individuals achieve their fitness goals through customized workout plans and nutrition guidance. This web application showcases the services offered, pricing options, and provides a platform for potential clients to get in touch.
